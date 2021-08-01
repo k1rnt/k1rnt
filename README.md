@@ -13,6 +13,6 @@
 ## Skill
 何も分からん
 
-## contact
+## link
 - [twitter/@k1rnt](https://twitter.com/k1rnt)
 
