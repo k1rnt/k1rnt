@@ -1,16 +1,18 @@
-### Hi there 👋
+# k1rnt
+色んな技術に触れたい
 
-<!--
-**k1rnt/k1rnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## status  💤
+### List
+- 💤(おやすみ)
+- 🌞(おはよう)
+- 🈳(コード書いてません)
+- 🖋(作業中)
+- 🛌(休憩中)
+- 😰(忙しい)
 
-Here are some ideas to get you started:
+## Skill
+何も分からん
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contact
+- [twitter/@k1rnt](https://twitter.com/k1rnt)
+
