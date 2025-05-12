@@ -1,12 +1,23 @@
 # k1rnt
+I love vulnerability.
 
-![](https://komarev.com/ghpvc/?username=k1rnt)  
-![](https://github-readme-stats.vercel.app/api?username=k1rnt&show_icons=true&theme=dark&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1rnt&theme=dark)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=k1rnt&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+## Job
+Cyber Security Engineer
+- White-box Web application pentesting
+
 ## Skill
-何も分からん
+I don't understand anything. But I kind of understand is ... 
+- Software Engineering
+  - Backend development
+    - Golang
 
-## link
-- [HP](https://k1rnt.me)
-- [Twitter](https://twitter.com/k1rnt)
+- Cyber Security
+  - web
+  - pentest (privilege escalation)
+    - AD
+    - Windows
+    - Linux
+
+## contact
+- [linkedin](https://www.linkedin.com/in/tktktktktk/)
+- [x](https://x.com/k1rnt)
